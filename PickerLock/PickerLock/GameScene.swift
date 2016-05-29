@@ -32,7 +32,7 @@ class GameScene: SKScene {
         Person.zRotation = 3.14 / 2
         
         self.addChild(Circle)
-        
+        	
         self.addChild(Person)
     }
     
